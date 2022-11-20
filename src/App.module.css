@@ -1,0 +1,9 @@
+.img {
+    width: 70px;
+    height: 70px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 50%;
+    justify-content: center;
+    align-items: center;
+}
