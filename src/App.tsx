@@ -99,7 +99,7 @@ function onUpdateNote(id: string, { tags, ...data }: NoteData) {
   return (
     <>
     <Container>
-        <Link to="/"><img className="mt-3 justify-content-center align-items-center" width="70px" height="70px" src="/src/assets/favicon.svg" alt="logo" /></Link>
+        <Link to="/"><img className="mt-3 justify-content-center align-items-center" width="70px" height="70px" src="/src/assets/logo.png" alt="logo" /></Link>
     </Container>
     <Container className="my-4 pt-4 pl-4 p-4 bg-light rounded select-none">
       <Routes>
