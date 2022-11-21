@@ -35,7 +35,7 @@ yarn dev
 #### - Clone this Repo to Run this Project in Your Machine:
 
 ```
-git clone https://github.com/HamzaZaidiX/My-ToDo-App
+git clone https://github.com/HamzaZaidiX/Blog-World/
 ```
 
 ### 🌏 Licence:
