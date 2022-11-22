@@ -1,10 +1,10 @@
-# 🌏 Blog World 
+<h1 align="center">Notes Taking App -AKA- `Blog World`🌏📝</h1>
 
 **This Project is build with `React JS` inspired me to make `Notes Taking App 📝` named as `Blog World 🌏`. In this App you can `Write any Blog or Note` with `Title and Description` and `Create or Add new Tags` which you can `Search your Blogs & Notes By Titles and Tags` and `Edit again After your Blog or Note` is saved on `Local Storage`.**
 
 <h2 align="center"><a href="https://blog-world-shjz.vercel.app/">Live Demo 🌏</a></h2>
 
-### 🌏 Materials Used:
+### 🌏 Features:
 
 - [Typescript](https://www.typescriptlang.org/)
 - [Bootstrap 4.0](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
